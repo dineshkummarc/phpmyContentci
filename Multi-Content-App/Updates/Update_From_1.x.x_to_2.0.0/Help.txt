@@ -1,0 +1,5 @@
+=================
+Update from 1.x to 2.0.0
+=================
+1. Copy and overwrite all php files except database.php at application/config
+2. Open purchase_code.php from server_side folder and write you Envato Purchase Code there

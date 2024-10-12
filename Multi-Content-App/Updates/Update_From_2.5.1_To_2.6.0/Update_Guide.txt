@@ -1,0 +1,45 @@
+=========================
+Update from version 2.5.1 to 2.6.0
+=========================
+
+Change Log:
+=========================
+– Migrate to Google R8.
+– Improve performance.
+– Update SDK and Gradle to the latest version.
+– Update depencencies to the latest version.
+
+=========================
+Backend Effected Files(s):
+=========================
+N/A
+
+=========================
+SQL Effected Table(s):
+=========================
+N/A
+
+=========================
+Android Effected File(s):
+=========================
+– project/build.gradle
+– app/build.gradle
+– app/src/main/java/PackageName/fragments/MainFragment.java
+– app/src/main/res/layout/fragment_main.xml
+
+=========================
+Update Server Side:
+=========================
+N/A
+
+=========================
+Update Android Side:
+=========================
+  1. Copy "Effected File(s)" to your existing project. (Notice: Be careful with your package name and custom changes).
+  2. Done.
+
+
+---
+Thanks & Regards
+Website: www.inw24.com
+Email: inw24.com@gmail.com

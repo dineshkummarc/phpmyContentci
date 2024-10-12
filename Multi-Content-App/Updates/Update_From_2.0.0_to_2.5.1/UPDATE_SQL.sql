@@ -1,0 +1,1 @@
+ALTER TABLE `setting_table` ADD `setting_one_signal_app_id` VARCHAR(255) NOT NULL AFTER `setting_custom2`, ADD `setting_one_signal_rest_api_key` VARCHAR(255) NOT NULL AFTER `setting_one_signal_app_id`; 

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155139638125",
+    "firebase_url": "https://multi-content-app-project.firebaseio.com",
+    "project_id": "multi-content-app-project",
+    "storage_bucket": "multi-content-app-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155139638125:android:514d0ada39ef2500",
+        "android_client_info": {
+          "package_name": "com.inw24.content"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155139638125-gj1kv2b2diprnfhbo7q0ca08hvae9to8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvsafE8XFOi4Zp3NAErAUT1B_ND3VK0MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155139638125-gj1kv2b2diprnfhbo7q0ca08hvae9to8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

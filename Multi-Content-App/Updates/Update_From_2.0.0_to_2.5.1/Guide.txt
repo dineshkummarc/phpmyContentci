@@ -1,0 +1,24 @@
+============
+Update from version 2.0.0 to 2.5.1
+============
+Server Side:
+============
+  1. First of all, Make a Full Backup. We cannot stress enough how important it is to *always* take a full backup
+      before attempting any kind of update. Both for Server Side and Android Side. A full backup should be taken
+      of both the codes and the database.
+  2. Upload the "application" folder to your existing installation folder replacing any existing folders & files.
+  3. Import "UPDATE_SQL.sql" into your database via PhpMyAdmin.
+  4. Done.
+  5. OneSignal push notification configuration: Open, Admin Panel → Settings → General Settings → Push Notification.
+      To get OneSignal APP ID and API Key, please read our user's manual.
+
+============
+Android Side:
+============
+There are many changes on the android side. please use new android side files and customize it via our user's manual.
+Visit: http://www.inw24.com/user_manual/multi_content_app/
+
+---
+Thanks & Regards
+Website: www.inw24.com
+Email: inw24.com@gmail.com
